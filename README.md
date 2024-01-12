@@ -1,6 +1,3 @@
-<a href="https://github.com/massaermbengue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=massaermbengue&show_icons=true&theme=dark&count_private=true&hide=stars" />
-</a>
 
 ### Hi! I am [Massaer](https://github.com/massaermbengue) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
